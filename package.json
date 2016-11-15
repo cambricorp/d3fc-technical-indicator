@@ -42,7 +42,7 @@
     "d3": "^4.2.5",
     "d3-dsv": "^1.0.1",
     "d3fc": "^11.0.0",
-    "d3fc-annotation": "^1.0.0",
+    "d3fc-annotation": "^1.0.3",
     "d3fc-extent": "^2.2.1",
     "d3fc-scripts": "^1.6.1",
     "d3fc-random-data": "^1.0.0",
